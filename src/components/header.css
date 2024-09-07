@@ -1,9 +1,8 @@
 
 #head h1 {
     background-color: rgb(134, 146, 147);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-weight: 400;
-    font-style: normal;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: rgb(211, 26, 26);
     text-align: center;
     padding: 1%;
 }
